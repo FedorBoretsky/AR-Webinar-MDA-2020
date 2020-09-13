@@ -9,21 +9,21 @@
 /* Begin PBXBuildFile section */
 		9F79C8AC250D896A00504158 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F79C8AB250D896A00504158 /* AppDelegate.swift */; };
 		9F79C8AE250D896A00504158 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F79C8AD250D896A00504158 /* ViewController.swift */; };
-		9F79C8B0250D896A00504158 /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 9F79C8AF250D896A00504158 /* Experience.rcproject */; };
 		9F79C8B3250D896A00504158 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F79C8B1250D896A00504158 /* Main.storyboard */; };
 		9F79C8B5250D896B00504158 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F79C8B4250D896B00504158 /* Assets.xcassets */; };
 		9F79C8B8250D896B00504158 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F79C8B6250D896B00504158 /* LaunchScreen.storyboard */; };
+		9FD9979A250E653300700B5D /* ARWebinar.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 9FD99799250E653300700B5D /* ARWebinar.rcproject */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		9F79C8A8250D896A00504158 /* AR Webinar MDA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Webinar MDA.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F79C8AB250D896A00504158 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F79C8AD250D896A00504158 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9F79C8AF250D896A00504158 /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		9F79C8B2250D896A00504158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9F79C8B4250D896B00504158 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F79C8B7250D896B00504158 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F79C8B9250D896B00504158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9FD99799250E653300700B5D /* ARWebinar.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = ARWebinar.rcproject; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 			children = (
 				9F79C8AB250D896A00504158 /* AppDelegate.swift */,
 				9F79C8AD250D896A00504158 /* ViewController.swift */,
-				9F79C8AF250D896A00504158 /* Experience.rcproject */,
+				9FD99799250E653300700B5D /* ARWebinar.rcproject */,
 				9F79C8B1250D896A00504158 /* Main.storyboard */,
 				9F79C8B4250D896B00504158 /* Assets.xcassets */,
 				9F79C8B6250D896B00504158 /* LaunchScreen.storyboard */,
@@ -139,8 +139,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F79C8AE250D896A00504158 /* ViewController.swift in Sources */,
+				9FD9979A250E653300700B5D /* ARWebinar.rcproject in Sources */,
 				9F79C8AC250D896A00504158 /* AppDelegate.swift in Sources */,
-				9F79C8B0250D896A00504158 /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
